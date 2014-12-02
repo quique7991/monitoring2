@@ -1,0 +1,50 @@
+<node>
+  <deviceClass>
+    <basicDeviceClass>ROUTING_SLAVE</basicDeviceClass>
+    <genericDeviceClass>BINARY_SWITCH</genericDeviceClass>
+    <specificDeviceClass>POWER_SWITCH_BINARY</specificDeviceClass>
+  </deviceClass>
+  <homeId>21815237</homeId>
+  <nodeId>8</nodeId>
+  <version>3</version>
+  <manufacturer>0x7fffffff</manufacturer>
+  <deviceId>0x7fffffff</deviceId>
+  <deviceType>0x7fffffff</deviceType>
+  <listening>true</listening>
+  <frequentlyListening>false</frequentlyListening>
+  <routing>true</routing>
+<<<<<<< HEAD
+  <healState>FAILED during UPDATENEIGHBORS @ 2014-12-02T04:32:35+0000</healState>
+=======
+  <healState>FAILED during UPDATENEIGHBORS @ 2014-11-23T19:14:13+0000</healState>
+>>>>>>> cd330e8d83bfd3f4af22fc0f567cebd515b07aaa
+  <supportedCommandClasses>
+    <entry>
+      <commandClass>BASIC</commandClass>
+      <basicCommandClass>
+        <version>0</version>
+        <instances>0</instances>
+      </basicCommandClass>
+    </entry>
+    <entry>
+      <commandClass>SWITCH_BINARY</commandClass>
+      <binarySwitchCommandClass>
+        <version>0</version>
+        <instances>0</instances>
+      </binarySwitchCommandClass>
+    </entry>
+    <entry>
+      <commandClass>NO_OPERATION</commandClass>
+      <noOperationCommandClass>
+        <version>0</version>
+        <instances>0</instances>
+      </noOperationCommandClass>
+    </entry>
+  </supportedCommandClasses>
+  <nodeNeighbors/>
+<<<<<<< HEAD
+  <lastUpdated>2014-12-02 04:32:35.959 UTC</lastUpdated>
+=======
+  <lastUpdated>2014-11-23 19:14:13.567 UTC</lastUpdated>
+>>>>>>> cd330e8d83bfd3f4af22fc0f567cebd515b07aaa
+</node>
